@@ -15,5 +15,7 @@ https://getbootstrap.com/docs/4.0/components/input-group/
 https://www.w3schools.com/html/html_tables.asp
 https://getbootstrap.com/docs/4.0/content/tables/
 
+## spaziatura
 
-# layout-tasklist-html
+https://getbootstrap.com/docs/4.0/utilities/spacing/
+
